@@ -2,7 +2,7 @@
 A simple interpreted language written in python and [sly](https://sly.readthedocs.io/en/latest/sly.html)
 
 # Important 
-This language is not meant for programming, right now this language have simple arithmatic operators and assign variables. Also the language is full of bugs.
+This language is not meant for programming, right now this language have simple arithmatic operators and variables. Also the language is full of bugs.
 
 # Getting Started
 
