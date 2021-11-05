@@ -8,7 +8,7 @@ This language is not meant for programming, right now you can only do simple ari
 
 Clone it 
 ```
-git clone ""
+git clone https://github.com/ni1l/mob-lang.git
 ```
 
 Install sly
