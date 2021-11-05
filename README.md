@@ -45,7 +45,7 @@ $age -- returns 0
 10 * 10 -- multiplication
 10 / 10 -- dvivision 
 
--- Arithmatic ith variables
+-- Arithmatic with variables
 a = 10
 b = 10
 sum = $a * $b 
