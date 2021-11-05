@@ -1,5 +1,5 @@
 # Moblang
-A simple interpreted language written in python with [sly](https://sly.readthedocs.io/en/latest/sly.html)
+A simple interpreted language written in python and [sly](https://sly.readthedocs.io/en/latest/sly.html)
 
 # Important 
 This language is not meant for programming, right now you can only do simple arithmatic and assign variables. And the language is full of bugs.
