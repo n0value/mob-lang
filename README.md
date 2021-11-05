@@ -2,7 +2,7 @@
 A simple interpreted language written in python and [sly](https://sly.readthedocs.io/en/latest/sly.html)
 
 # Important 
-This language is not meant for programming, right now you can only do simple arithmatic and assign variables. And the language is full of bugs.
+This language is not meant for programming, right now this language have simple arithmatic operators and assign variables. Also the language is full of bugs.
 
 # Getting Started
 
@@ -39,16 +39,18 @@ age = 0 -- Integer
 $name -- returns "Nil" 
 $age -- returns 0 
 
--- Arithmatic
-10 + 10 -- addition
-10 - 10 -- Subtraction
-10 * 10 -- multiplication
-10 / 10 -- dvivision 
+-- Arithmatic operators
+10 + 10 
+10 - 10 
+10 * 10 
+10 / 10 
 
--- Arithmatic with variables
+-- with variables
 a = 10
-b = 10
-sum = $a * $b 
-$sum -- returns 100
+b = 20
+c = 4
+sum = $a * $b
+$main = $sum / $c
+$sum
 ```
 
