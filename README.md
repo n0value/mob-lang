@@ -7,17 +7,17 @@ This language is not meant for programming, right now you can only do simple ari
 # Getting Started
 
 Clone it 
-```
+```git
 git clone https://github.com/ni1l/mob-lang.git
 ```
 
 Install sly
-```
+```shell
 pip install sly
 ```
 
 Run mob.py
-```
+```shell
 python3 run.py 
 ```
 
