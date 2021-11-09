@@ -6,27 +6,27 @@ This language is not meant for programming, right now this language have simple 
 
 # Getting Started
 
-Clone it 
-```git
-git clone https://github.com/ni1l/mob-lang.git
-```
-
 Install sly
 ```shell
 pip install sly
 ```
 
-Run mob.py
+Clone it 
+![Getting started](https://github.com/ni1l/mob-lang/blob/main/assets/Screenshot%202021-11-09%20205911.jpg)
+
+
+Run it
 ```shell
 python3 run.py 
 ```
 
 # Hello, World
 
-```
-main = "Hello, World"
-$main
-```
+![Hello, World](https://github.com/ni1l/mob-lang/blob/main/assets/Screenshot%202021-11-09%20210123.jpg)
+
+# Comments 
+
+![Comments](https://github.com/ni1l/mob-lang/blob/main/assets/Screenshot%202021-11-09%20210228.jpg)
 
 # More Examples
 ```
